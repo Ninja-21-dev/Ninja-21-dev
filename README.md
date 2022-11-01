@@ -137,18 +137,18 @@
   <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider2.png" alt="divider"/>
 </div> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Ninja-21-dev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
    
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=naruhitokaide&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=naruhitokaide&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Ninja-21-dev&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-21-dev&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
   <br><br>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=Ninja-21-dev&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
-  <a href="mailto:naruhitokaide@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:ninja.cooldev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
