@@ -119,7 +119,7 @@
        <img src="https://img.shields.io/badge/Three.js-green" /> 
       </td>
       <td valign="center" align="center" width="300px"> 
-        <img src="https://img.shields.io/badge/Object-oriented Databases-green" /> 
+        <img src="https://img.shields.io/badge/Object oriented Databases-green" /> 
         <img src="https://img.shields.io/badge/Relational Databases-green" /> 
         <img src="https://img.shields.io/badge/Network Databases-green" /> 
         <img src="https://img.shields.io/badge/Amazon RDS-green" />
