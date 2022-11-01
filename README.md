@@ -7,7 +7,7 @@
 <h3 align="center">I am a Full Stack & Blockchain Developer.</h3>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider1.png" alt="divider"/>
 </div> 
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider1.png" alt="divider"/>
 </div> 
 
 <div align="center">
@@ -25,10 +25,10 @@
 <h3 align="center">I am available now and can start right now.</h3>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider2.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -88,6 +88,7 @@
     <tr>
       <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Design<b></td>
+      <td valign="center" width="100px"><b>Microservices<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -108,12 +109,19 @@
        <img src="https://img.shields.io/badge/WebGL-green" /> 
        <img src="https://img.shields.io/badge/Three.js-green" /> 
       </td>
+      <td valign="center" align="center" width="300px">
+       <img src="https://img.shields.io/badge/AWS-green" /> 
+       <img src="https://img.shields.io/badge/GCP-green" /> 
+       <img src="https://img.shields.io/badge/Microsoft Azure-green" /> 
+       <img src="https://img.shields.io/badge/Oracle Cloud-green" /> 
+       <img src="https://img.shields.io/badge/Hostinger-green" /> 
+      </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider2.png" alt="divider"/>
 </div> 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=naruhitokaide&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
@@ -138,7 +146,6 @@
 </p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
-<h2 align="center"> 私のプロフィールをご覧いただきありがとうございます </h2>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
