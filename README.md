@@ -11,7 +11,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.gif" alt="Portfolio"/>
+  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/336183eb28acef6d5c27b109e2a57d40158c5e2a/portfolio.gif" alt="Portfolio"/>
 </div> 
 
 <div align="center">
@@ -54,32 +54,41 @@
         <img src="https://img.shields.io/badge/Chart.js-green" />
       </td>      
       <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/PHP-green" /> 
+        <img src="https://img.shields.io/badge/Python-green" />
+        <img src="https://img.shields.io/badge/Node.js-green" /> 
+        <img src="https://img.shields.io/badge/Java-green" /> 
+        <img src="https://img.shields.io/badge/Laravel-green" />
+        <img src="https://img.shields.io/badge/Yii-green" />
+        <img src="https://img.shields.io/badge/Symfony-green" />
         <img src="https://img.shields.io/badge/Django-green" /> 
-        <img src="https://img.shields.io/badge/Python-green" /> 
         <img src="https://img.shields.io/badge/Selenium-green" />        
         <img src="https://img.shields.io/badge/Ruby-green" /> 
         <img src="https://img.shields.io/badge/Rails-green" /> 
         <img src="https://img.shields.io/badge/BeautifulSoup-green" /> 
-        <img src="https://img.shields.io/badge/Pandas-green" /> 
+        <img src="https://img.shields.io/badge/GraphQL-green" /> 
         <img src="https://img.shields.io/badge/Numpy-green" /> 
         <img src="https://img.shields.io/badge/Flask-green" /> 
-        <img src="https://img.shields.io/badge/PHP-green" /> 
-        <img src="https://img.shields.io/badge/Laravel-green" /> 
-        <img src="https://img.shields.io/badge/Node.js-green" /> 
         <img src="https://img.shields.io/badge/Express-green" /> 
-        <img src="https://img.shields.io/badge/Nest.js-green" /> 
+        <img src="https://img.shields.io/badge/Nest.js-green" />
+        <img src="https://img.shields.io/badge/Next.js-green" />
+        <img src="https://img.shields.io/badge/Nuxt.js-green" />
+        <img src="https://img.shields.io/badge/Spring-green" />
+        <img src="https://img.shields.io/badge/Hibernate-green" />
+        <img src="https://img.shields.io/badge/Struts-green" />
       </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-green" /> 
+        <img src="https://img.shields.io/badge/AWS-green" />
+        <img src="https://img.shields.io/badge/GCP-green" />
+        <img src="https://img.shields.io/badge/Microsoft Azure-green" /> 
+        <img src="https://img.shields.io/badge/Oracle Cloud-green" /> 
+        <img src="https://img.shields.io/badge/Hostinger-green" />
         <img src="https://img.shields.io/badge/CI/CD-green" /> 
         <img src="https://img.shields.io/badge/Docker-green" /> 
+        <img src="https://img.shields.io/badge/BitBucket-green" />
         <img src="https://img.shields.io/badge/TDD-green" /> 
         <img src="https://img.shields.io/badge/Jira-green" /> 
         <img src="https://img.shields.io/badge/Tezos-green" /> 
-        <img src="https://img.shields.io/badge/MySQL-green" /> 
-        <img src="https://img.shields.io/badge/NoSQL-green" /> 
-        <img src="https://img.shields.io/badge/MongoDB-green" /> 
-        <img src="https://img.shields.io/badge/PostgreSQL-green" /> 
       </td>
     </tr>
   </table>
@@ -88,7 +97,7 @@
     <tr>
       <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Design<b></td>
-      <td valign="center" width="100px"><b>Microservices<b></td>
+      <td valign="center" width="100px"><b>Database Managment<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
@@ -109,12 +118,16 @@
        <img src="https://img.shields.io/badge/WebGL-green" /> 
        <img src="https://img.shields.io/badge/Three.js-green" /> 
       </td>
-      <td valign="center" align="center" width="300px">
-       <img src="https://img.shields.io/badge/AWS-green" /> 
-       <img src="https://img.shields.io/badge/GCP-green" /> 
-       <img src="https://img.shields.io/badge/Microsoft Azure-green" /> 
-       <img src="https://img.shields.io/badge/Oracle Cloud-green" /> 
-       <img src="https://img.shields.io/badge/Hostinger-green" /> 
+      <td valign="center" align="center" width="300px"> 
+        <img src="https://img.shields.io/badge/Object-oriented Databases-green" /> 
+        <img src="https://img.shields.io/badge/Relational Databases-green" /> 
+        <img src="https://img.shields.io/badge/Network Databases-green" /> 
+        <img src="https://img.shields.io/badge/Amazon RDS-green" />
+        <img src="https://img.shields.io/badge/Amazon Aurora-green" />
+        <img src="https://img.shields.io/badge/Mongo-green" />
+        <img src="https://img.shields.io/badge/PostgreSQL-green" />
+        <img src="https://img.shields.io/badge/SQL-green" />
+        <img src="https://img.shields.io/badge/DynamoDB-green" />
       </td>
     </tr>
   </table>
