@@ -11,7 +11,7 @@
 </div> 
 
 <div align="center">
-  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/336183eb28acef6d5c27b109e2a57d40158c5e2a/portfolio.gif" alt="Portfolio"/>
+  <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/portfolio.gif" alt="Portfolio"/>
 </div> 
 
 <div align="center">
