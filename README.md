@@ -6,14 +6,6 @@
 
 <h3 align="center">I am a Full Stack & Blockchain Developer.</h3>
 
-<p align="center">
-  &nbsp;&nbsp;
-  <a href="mailto:ninja.cooldev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  &nbsp;&nbsp;
-  <a href="https://t.me/starboydev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-</p>
 
 <div align="center">
   <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider1.png" alt="divider"/>
@@ -33,9 +25,19 @@
 
 <h3 align="center">I am available now and can start right now.</h3>
 
+<p align="center">
+  &nbsp;&nbsp;
+  <a href="mailto:ninja.cooldev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="https://t.me/starboydev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+</p>
+
 <div align="center">
   <img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/divider2.png" alt="divider"/>
 </div> 
+
 
 <h3 align="center"><img src="https://github.com/Ninja-21-dev/Ninja-21-dev/blob/744d90b2f4f625e19cf53bfa1252dbe1ffcd5ca3/code.gif" height="20"/> Tech & Tools</h3>
 
