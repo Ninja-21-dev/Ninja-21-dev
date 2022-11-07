@@ -149,9 +149,10 @@
 <p align="center">
   &nbsp;&nbsp;
   <a href="mailto:ninja.cooldev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  
+  &nbsp;&nbsp;
   &nbsp;&nbsp;
   <a href="https://t.me/starboydev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
 </p>
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
