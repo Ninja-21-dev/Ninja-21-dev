@@ -12,9 +12,9 @@
     <img src = "https://github-readme-streak-stats.herokuapp.com?user=Ninja-21-dev&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 <p align="center">
-  <a href="mailto:ninja.cooldev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-
+  <a href="mailto:ninja.cooldev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  
   &nbsp;&nbsp;
   <a href="https://t.me/starboydev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
 </p>
