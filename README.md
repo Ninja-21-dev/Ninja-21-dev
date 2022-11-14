@@ -32,6 +32,8 @@
   &nbsp;&nbsp;
   <a href="https://t.me/starboydev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/HCqwPCHlSVYq" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
 </p>
 
 <div align="center">
