@@ -23,7 +23,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 
-<h3 align="center">I am available now and can start right now.</h3>
+<h3 align="center">I am available now and ready to get started right away.</h3>
 
 <p align="center">
   &nbsp;&nbsp;
